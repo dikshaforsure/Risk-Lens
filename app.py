@@ -6,7 +6,7 @@ from src.risk_logic import risk_bucket, decision_from_risk
 
 # ---------------- App Config ----------------
 st.set_page_config(
-    page_title="RiskShield",
+    page_title="Risk-Lens",
     page_icon="🛡️",
     layout="centered"
 )
