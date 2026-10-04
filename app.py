@@ -11,7 +11,7 @@ st.set_page_config(
     layout="centered"
 )
 
-st.title("🛡️ RiskShield – Fraud Risk Assessment System")
+st.title("🛡️ Risk-Lens – Fraud Risk Assessment System")
 st.write(
     """
     This application demonstrates a **fraud risk scoring engine**.
